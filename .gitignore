@@ -1,0 +1,4 @@
+node_modules/
+static/
+.vscode
+.yarn-error.log
