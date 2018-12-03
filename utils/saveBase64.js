@@ -40,7 +40,7 @@ function saveBase64(imagData, options) {
                 reject(0);
             } else {
                 resolve([
-                    `https://static.jef.site/${fileType}/${fileName}`
+                    `http://119.29.251.125:8082/${fileType}/${fileName}`
                 ]);
             }
         });
