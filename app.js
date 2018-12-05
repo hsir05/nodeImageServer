@@ -21,4 +21,5 @@ router(app);
 
 app.listen(8082, () => {
     console.log("图片服务器启动成功，8082");
+    console.log('添加jenkings测试app.js')
 });
